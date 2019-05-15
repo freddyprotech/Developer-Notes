@@ -2,7 +2,7 @@ The Net Ninja
 - Modern JavaScript Tutorial #5 - Objects (completed)
 - Modern JavaScript Tutorial #6 - The Document Object Manipulation (completed)
 - Firebase Hosting Tutorial #1 - Intro & Installation (still still watching it...)
-- Firebase Hosting Tutorial #2 - Initializing & Testing (preparing to watch)
+- Firebase Hosting Tutorial #2 - Initializing & Testing (preparing to watch of course)
 - Firebase Hosting Tutorial #3 - Deploying a Static Website
 - Firebase Hosting Tutorial #4 - Deployng a Vue Site
 - Firebase Hosting Tutorial #5 - Config & Redirects
