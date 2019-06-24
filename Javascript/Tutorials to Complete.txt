@@ -8,7 +8,7 @@ The Net Ninja
 - Firebase Hosting Tutorial #5 - Config & Redirects (completed)
 
 Derek Banas
-- JavaScript Tutorial 2 : Calculator
+- JavaScript Tutorial 2 : Calculator x
 - JavaScript Tutorial 3 Canvas & JSON
 - JavaScript Tutorial 4 Dynamic HTML 
 - JavaScript Tutorial 5 Dynamic Image Manipulation 
