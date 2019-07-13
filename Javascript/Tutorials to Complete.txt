@@ -10,6 +10,6 @@ The Net Ninja
 Derek Banas
 - JavaScript Tutorial 2 : Calculator x
 - JavaScript Tutorial 3 Canvas & JSON x
-- JavaScript Tutorial 4 Dynamic HTML 
+- JavaScript Tutorial 4 Dynamic HTML x
 - JavaScript Tutorial 5 Dynamic Image Manipulation x
 - JavaScript Canvas Trigonometry Tutorial xxx
