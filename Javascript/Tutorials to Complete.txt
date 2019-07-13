@@ -12,4 +12,4 @@ Derek Banas
 - JavaScript Tutorial 3 Canvas & JSON x
 - JavaScript Tutorial 4 Dynamic HTML 
 - JavaScript Tutorial 5 Dynamic Image Manipulation x
-- JavaScript Canvas Trigonometry Tutorial x
+- JavaScript Canvas Trigonometry Tutorial xxx
